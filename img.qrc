@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/Chess_Board.jpg</file>
+    </qresource>
+    <qresource prefix="/Chessman">
+        <file>img/黑兵.png</file>
+        <file>img/黑車.png</file>
+        <file>img/黑将.png</file>
+        <file>img/黑马.png</file>
+        <file>img/黑炮.png</file>
+        <file>img/黑士.png</file>
+        <file>img/黑相.png</file>
+        <file>img/红兵.png</file>
+        <file>img/红車.png</file>
+        <file>img/红马.png</file>
+        <file>img/红炮.png</file>
+        <file>img/红士.png</file>
+        <file>img/红帅.png</file>
+        <file>img/红相.png</file>
+        <file>img/待移动位置.png</file>
+        <file>img/选中棋子.png</file>
+    </qresource>
+</RCC>
