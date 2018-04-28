@@ -10,28 +10,28 @@
       软件左侧是游戏界面，右侧是相关菜单，还包括玩家的步时和局时，开始按钮被点击后时间开始计数，点击棋子才有效，且默认为黑棋先手
       ，悔棋按钮可以撤销最后六步，悔棋之后有悔棋操作中被移动棋子的提示。
       PS:界面大小是被固定了的，所以棋盘方格是背景图片上的，绘图函数里面并没有画线操作。
-![象棋](http://img.blog.csdn.net/20161126193652772)
+![象棋](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/showMain.png)
 
 **2.选中棋子界面**
 
     当前选中棋子有不同的选中符号，每一个棋子的可移动位置被标出。
-![棋子](http://img.blog.csdn.net/20161126194141216)
+![棋子](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/prompt.png)
 
 **3.游戏规则界面**
     
     悔棋操作会提示悔棋移动的棋子
-   ![规则](http://img.blog.csdn.net/20161126194419391)
+   ![规则](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/instruction.png)
    
 **4.输赢判断**
      
      输赢判断的三种情况：帅消失/将消失/将帅见面
-   ![帅](http://img.blog.csdn.net/20161126194823751)
+   ![帅](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/winner.png)
        
     由提示也可以看出最后一步为红方移动，故红棋输
-   ![将帅见面](http://img.blog.csdn.net/20161126195013814)
+   ![将帅见面](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/fail.png)
    
 **5.源文件结构**
-![结构](http://img.blog.csdn.net/20161126202753188)
+![结构](https://github.com/li1039764866/Chinese_Chess/blob/master/ReadMeShowPNG/struct.png)
 
 **6.widget.h**
 
